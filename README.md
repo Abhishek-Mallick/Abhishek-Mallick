@@ -40,15 +40,7 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
- <a href="https://golang.org/" target="_blank"
-    rel="noreferrer"> <img
-      src="icons/golang.png"
-      alt="go lang" width="40" height="40" /> </a> 
 	
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 	
 	
 <!--   <h3>Statistical Data :-</h3>
