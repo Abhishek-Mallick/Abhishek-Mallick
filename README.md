@@ -40,7 +40,14 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
-	
+  <a href="https://golang.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg"
+      alt="golang" width="40" height="40" /> </a> 
+  <a href="https://www.rust-lang.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/tomchen/stack-icons/blob/master/logos/rust.svg"
+      alt="rust" width="40" height="40" /> </a> 
 	
 	
 <!--   <h3>Statistical Data :-</h3>
