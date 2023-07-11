@@ -93,3 +93,4 @@
 [![An image of @abhishekm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekm)](https://holopin.io/@abhishekm)
 
 ![](https://komarev.com/ghpvc/?username=Abhishek-Mallick&style=flat&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
