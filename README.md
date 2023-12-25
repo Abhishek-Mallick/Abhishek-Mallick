@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **mallickabhishek97@gmail.com**
 
+- 💻 Visit my Portfolio [here](https://abhishek-mallick.xyz)
+
 <h2> Connect with me <img src='https://github.com/Abhishek-Mallick/Abhishek-Mallick/assets/106394426/7e67c74d-ae13-4c93-8b76-6d0d9cb4ce8b' width="100"></h2>
 
 <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px"> px was used first in both connect and skills-->
@@ -50,7 +52,7 @@
       src="https://github.com/tomchen/stack-icons/blob/master/logos/rust.svg"
       alt="rust" width="40" height="40" /> </a> -->
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,go,html,css,js,kotlin,nodejs,react,rust,ts,vue,linux,git,kubernetes,docker,gcp,aws" />
+    <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" />
   </a>
 	
 	
