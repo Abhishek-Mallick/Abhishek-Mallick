@@ -5,7 +5,9 @@
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
 
-- 🌱 I’m currently learning DevOps - ☸  Kubernetes ☸
+- 💻 Currently working as an SEP intern at [JP Morgan Chase & Co.](https://www.jpmorgan.com/global)
+
+- I'm currently learning SpringBoot 🍃 and exploring the DevOps realm ☸
 
 - 📫 How to reach me: **mallickabhishek97@gmail.com**
 
