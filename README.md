@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **mallickabhishek97@gmail.com**
 
-- 💻 Visit my Portfolio [here](https://abhishek-mallick.dev)
+- 💻 Visit my Portfolio [here](https://abhishek-mallick.vercel.app/)
 
 <h2> Connect with me <img src='https://github.com/Abhishek-Mallick/Abhishek-Mallick/assets/106394426/7e67c74d-ae13-4c93-8b76-6d0d9cb4ce8b' width="100"></h2>
 
