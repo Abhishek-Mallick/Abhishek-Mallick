@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="35">, I'm Abhishek Mallick</h1>
-<h3 align="center">Student at KIIT 🌠.</h3>
+<h3 align="center">Full Stack Python Developer 🌠.</h3>
 <!-- 👋 -->
 <br>
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
-
-- 💻 Currently working as an SEP intern at [JP Morgan Chase & Co.](https://www.jpmorgan.com/global)
+- 💻 Currently working as an SWE I at [JP Morgan Chase & Co.](https://www.jpmorgan.com/global)
 
 - I'm currently learning SpringBoot 🍃 and exploring the DevOps realm ☸
 
