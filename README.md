@@ -11,21 +11,22 @@
 ---
 
 ### What I'm Building
+ 
+- **[Architech](https://www.architech-dev.tech/)** - Generates system design diagrams from natural language, supports private repo visualization, and scaffolds production-grade service architectures. Powered by in-house models arch-base and arch-apex, built on FastAPI and React.
+- **[Tunr](https://www.tunr.dev/)** - Resume optimization engine that parses JDs, maps skill gaps, and rewrites bullets to beat ATS keyword filters. NLP pipeline + real-time scoring.
+- **Wearly** - Mobile app that generates outfit suggestions from a user's own clothing collection using computer vision and collaborative filtering.
+- **[Synaptiq](https://synaptiq.buildlab.in/)** - Predicts neural activation patterns (attention, emotion, comprehension) for multimodal content using models inspired by TRIBE — no brain scans needed.
+- **[World Simulator](https://worldsim.buildlab.in/)** - Ingests geopolitical, economic, and environmental signals into a real-time dashboard. Event correlation engine with time-series forecasting.
+- **[GitInsight](https://gitinsight.buildlab.in/)** - Indexes repositories and auto-generates wikis with architecture diagrams, dependency graphs, and per-module summaries. Plugs into GitHub OAuth.
+- **[Incident Triage RL Env](https://huggingface.co/spaces/AbhishekMallick/incident-triage-env)** - OpenEnv-compliant RL environment. Agent receives a production alert and investigates logs, metrics, deploys, and service graphs to submit a graded root-cause diagnosis. Ships as Docker + Gradio UI.
+- **[Runstack](https://runstack.buildlab.in/)** - Agent orchestration framework for long-running autonomous workflows. Handles tool routing, memory management, and retrieval-augmented execution with guardrails.
+- **[Predict Hub](https://predicthub.vercel.app/)** - Stock forecasting using stacked LSTM networks trained on historical OHLCV data with real-time market feed integration.
+- **[Universal-Box](https://github.com/Abhishek-Mallick/universal-box)** - CLI scaffolding tool with pre-built templates for full-stack, ML, and microservice projects. One command to init + deploy.
+- **[JanSevak](https://github.com/Abhishek-Mallick/JanSevak)** - Healthcare management system with symptom-based disease prediction (ML classifier), appointment scheduling, and role-based access for patients and doctors.
+- **[Decision Hub](https://github.com/Abhishek-Mallick/Decision-Hub)** - No-code rules engine with a visual rule builder, version-controlled strategy management, and a step-through debugger for decision logic.
+- **[Disk Manager](https://github.com/Abhishek-Mallick/Disk-Manager)** - Storage analysis and optimization tool. Uses file-system traversal algorithms to surface usage patterns. Built with C# / WPF.NET.
+- **[Assessment360](https://github.com/Abhishek-Mallick/Assessment360)** - Assignment lifecycle platform for educational institutions — submission, grading workflows, and analytics dashboards.
 
-- 🏗️ **[Architech](https://www.architech-dev.tech/)** — Generates system design diagrams from natural language, supports private repo visualization, and scaffolds production-grade service architectures. Built with FastAPI, React, and LLM orchestration.
-- 📄 **[Tunr](https://www.tunr.dev/)** — Resume optimization engine that parses JDs, maps skill gaps, and rewrites bullets to beat ATS keyword filters. NLP pipeline + real-time scoring.
-- 👗 **[Wearly](https://buildlab.in/)** — White-label styling SDK for fashion retailers. Embeds a recommendation engine that builds outfits from a user's existing wardrobe using computer vision and collaborative filtering.
-- 🧠 **[Synaptiq](https://synaptiq.buildlab.in/)** — Predicts neural activation patterns (attention, emotion, comprehension) for multimodal content using models inspired by TRIBE — no brain scans needed.
-- 🌍 **[World Simulator](https://worldsim.buildlab.in/)** — Ingests geopolitical, economic, and environmental signals into a real-time dashboard. Event correlation engine with time-series forecasting.
-- 🔍 **[GitInsight](https://gitinsight.buildlab.in/)** — Indexes repositories and auto-generates wikis with architecture diagrams, dependency graphs, and per-module summaries. Plugs into GitHub OAuth.
-- 🚨 **[Incident Triage RL Env](https://huggingface.co/spaces/AbhishekMallick/incident-triage-env)** — OpenEnv-compliant RL environment. Agent receives a production alert and investigates logs, metrics, deploys, and service graphs to submit a graded root-cause diagnosis. Ships as Docker + Gradio UI.
-- ⚡ **[Runstack](https://runstack.buildlab.in/)** — Agent orchestration framework for long-running autonomous workflows. Handles tool routing, memory management, and retrieval-augmented execution with guardrails.
-- 📈 **[Predict Hub](https://predicthub.vercel.app/)** — Stock forecasting using stacked LSTM networks trained on historical OHLCV data with real-time market feed integration.
-- 📦 **[Universal-Box](https://github.com/Abhishek-Mallick/universal-box)** — CLI scaffolding tool with pre-built templates for full-stack, ML, and microservice projects. One command to init + deploy.
-- 🏥 **[JanSevak](https://github.com/Abhishek-Mallick/JanSevak)** — Healthcare management system with symptom-based disease prediction (ML classifier), appointment scheduling, and role-based access for patients and doctors.
-- 🧩 **[Decision Hub](https://github.com/Abhishek-Mallick/Decision-Hub)** — No-code rules engine with a visual rule builder, version-controlled strategy management, and a step-through debugger for decision logic.
-- 💾 **[Disk Manager](https://github.com/Abhishek-Mallick/Disk-Manager)** — Storage analysis and optimization tool. Uses file-system traversal algorithms to surface usage patterns. Built with C# / WPF.NET.
-- 🎓 **[Assessment360](https://github.com/Abhishek-Mallick/Assessment360)** — Assignment lifecycle platform for educational institutions — submission, grading workflows, and analytics dashboards.
 
 ---
 
