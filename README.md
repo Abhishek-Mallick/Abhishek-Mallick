@@ -1,5 +1,5 @@
 <h1 align="center">Hi. I'm Abhishek Mallick</h1>
-<h3 align="center"><b>Engineering @ <a href="https://www.jpmorgan.com/global">JP Morgan Chase & Co.</a></b> · Full Stack Developer · Building developer tools</h3>
+<h3 align="center"><b>Engineering @ JP Morgan Chase & Co.</b> · Full Stack Developer · Building developer tools</h3>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-mallick09/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
