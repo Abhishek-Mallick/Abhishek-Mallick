@@ -15,6 +15,7 @@
 - **[Architech](https://www.architech-dev.tech/)** - Generates system design diagrams from natural language, supports private repo visualization, and scaffolds production-grade service architectures. Powered by in-house models arch-base and arch-apex, built on FastAPI and React.
 - **[Tunr](https://www.tunr.dev/)** - Resume optimization engine that parses JDs, maps skill gaps, and rewrites bullets to beat ATS keyword filters. NLP pipeline + real-time scoring.
 - **Wearly** - Mobile app that generates outfit suggestions from a user's own clothing collection using computer vision and collaborative filtering.
+- **[ServiceLens](https://service-lens.vercel.app/)** - Infers API contracts and event flows from Git-backed microservices, maps live topology, and runs end-to-end regression tests with animated playback and real-time health rollups.
 - **[Synaptiq](https://synaptiq.buildlab.in/)** - Predicts neural activation patterns (attention, emotion, comprehension) for multimodal content using models inspired by TRIBE — no brain scans needed.
 - **[World Simulator](https://worldsim.buildlab.in/)** - Ingests geopolitical, economic, and environmental signals into a real-time dashboard. Event correlation engine with time-series forecasting.
 - **[GitInsight](https://gitinsight.buildlab.in/)** - Indexes repositories and auto-generates wikis with architecture diagrams, dependency graphs, and per-module summaries. Plugs into GitHub OAuth.
