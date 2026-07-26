@@ -27,7 +27,7 @@
 - **[Decision Hub](https://github.com/Abhishek-Mallick/Decision-Hub)** - No-code rules engine with a visual rule builder, version-controlled strategy management, and a step-through debugger for decision logic.
 - **[Disk Manager](https://github.com/Abhishek-Mallick/Disk-Manager)** - Storage analysis and optimization tool. Uses file-system traversal algorithms to surface usage patterns. Built with C# / WPF.NET.
 - **[Assessment360](https://github.com/Abhishek-Mallick/Assessment360)** - Assignment lifecycle platform for educational institutions — submission, grading workflows, and analytics dashboards.
-
+- **[kube-memory](https://github.com/Abhishek-Mallick/kube-memory)** - MCP-native institutional memory for AI agents — surface past incidents, interrogate live cluster state, and quantify deploy risk before you ship.
 
 ---
 
