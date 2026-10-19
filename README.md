@@ -12,7 +12,7 @@
 
 ### What I'm Building
  
-- **[Architech](https://www.architech-dev.tech/)** - Generates system design diagrams from natural language, supports private repo visualization, and scaffolds production-grade service architectures. Powered by in-house models arch-base and arch-apex, built on FastAPI and React.
+- **[Architech](https://architech.buildlab.in/)** - Generates system design diagrams from natural language, supports private repo visualization, and scaffolds production-grade service architectures. Powered by in-house models arch-base and arch-apex, built on FastAPI and React.
 - **[Cachet](https://cachet.buildlab.in)** - Integrated read cache for sharded MySQL/MyRocks that invalidates exactly the rows a write touched and continuously verifies its own correctness, publishing consistency as a live SLO. Per-request consistency levels, lease-based stampede protection, and a MySQL wire-protocol proxy. Cut origin DB load by ~90% in benchmarks. Built in Go.
 - **[Warden](https://warden.buildlab.in/)** - Governed data-access runtime for AI agents. Sits between agents and PostgreSQL, MySQL, MongoDB, or Neo4j, holds the credentials agents never see, and enforces what each agent may read, propose, and commit, with every access scoped, audited, and escalated to a human only when it matters. Drop-in via MCP/SDK.
 - **[Opaline](https://opaline.buildlab.in)** - Liquid glass component library for React that refracts whatever is behind each surface through SVG displacement maps instead of simply blurring it, with a frosted fallback for Safari and Firefox. Installable through the shadcn CLI
